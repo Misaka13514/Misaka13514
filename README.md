@@ -4,7 +4,7 @@
 
 Hi, there!
 
-- 💻 macOS user
+- 💻 Arch Linux user
 - 📱 Android user
 - 👨‍🎓 Undergraduate student
 - ⚡️ HAM
