@@ -1,6 +1,6 @@
 # Misaka13514
 
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Misaka13514&theme=github">
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Misaka13514&theme=github" width="70%">
 
 Hi, there!
 
@@ -12,8 +12,8 @@ Hi, there!
 
 ## 🌱 I’m currently learning ...
 
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Misaka13514&theme=github">
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Misaka13514&theme=github">
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Misaka13514&theme=github" width="35%">
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Misaka13514&theme=github" width="35%">
 
   - Japanese
   - [Python](https://github.com/topics/python)
