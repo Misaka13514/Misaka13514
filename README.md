@@ -32,7 +32,7 @@ Hi, there!
 
 ## 📫 Get in touch:
 
-  [![](https://img.shields.io/badge/-@Misaka_0x34ca-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Misaka_0x34ca) [![](https://img.shields.io/badge/-https://blog.atri.tk-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://blog.atri.tk) [![](https://img.shields.io/badge/-@Misaka_0x34ca-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/Misaka_0x34ca) [![](https://img.shields.io/keybase/pgp/Misaka13514?style=flat-square)](https://keybase.io/misaka13514/pgp_keys.asc)
+  [![](https://img.shields.io/badge/-@Misaka_0x34ca-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Misaka_0x34ca) [![](https://img.shields.io/badge/-https://blog.atri.tk-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://blog.atri.tk) [![](https://img.shields.io/badge/-@Misaka_0x34ca-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/Misaka_0x34ca) [![](https://img.shields.io/badge/pgp-189BB387CF3AD95F-informational)](https://keys.openpgp.org/vks/v1/by-fingerprint/C4B71F9ED3515AEB8270D5D7189BB387CF3AD95F)
 
 ## More information
 
