@@ -1,6 +1,8 @@
-<img width="390"
-  src="https://gist.githubusercontent.com/Misaka13514/c676ad963910526baf449fd4ce4696ba/raw/general.svg"><img width="390"
-  src="https://gist.githubusercontent.com/Misaka13514/c676ad963910526baf449fd4ce4696ba/raw/media.svg">
+<a href="#">
+  <img width="390"
+    src="https://gist.githubusercontent.com/Misaka13514/c676ad963910526baf449fd4ce4696ba/raw/general.svg"><img
+    width="390" src="https://gist.githubusercontent.com/Misaka13514/c676ad963910526baf449fd4ce4696ba/raw/media.svg">
+</a>
 
 <p align="center">
   <a href="https://twitter.com/Misaka_0x34ca">
