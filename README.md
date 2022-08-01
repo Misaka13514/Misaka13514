@@ -1,40 +1,25 @@
-# Misaka13514
+<img width="390"
+  src="https://gist.githubusercontent.com/Misaka13514/c676ad963910526baf449fd4ce4696ba/raw/general.svg"><img width="390"
+  src="https://gist.githubusercontent.com/Misaka13514/c676ad963910526baf449fd4ce4696ba/raw/media.svg">
 
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Misaka13514&theme=github" width="70%">
-
-Hi, there!
-
-- 💻 Arch Linux user
-- 📱 Android user
-- 👨‍🎓 Undergraduate student
-- ⚡️ HAM
-- 💞 ACGN lover
-
-## 🌱 I’m currently learning ...
-
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Misaka13514&theme=github" width="35%">
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Misaka13514&theme=github" width="35%">
-
-  - Japanese
-  - [Python](https://github.com/topics/python)
-  - Amateur [Radio](https://github.com/topics/radio) Communications
-  - Kali Linux [Pentestation](https://github.com/topics/pentestation)
-  - [Capture The Flag](https://github.com/topics/ctf)
-  - Everything
-
-## 🤔 I’m looking for help with ...
-
-  - Linear Algebra and Calculus
-  - Programming
-  - Study
-
-## 💬 [Ask me anonymously](https://peing.net/en/misaka13514)
-
-## 📫 Get in touch:
-
-  [![](https://img.shields.io/badge/-@Misaka_0x34ca-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Misaka_0x34ca) [![](https://img.shields.io/badge/-https://blog.atri.tk-0e83cd?style=flat-square&logo=Blogger&logoColor=fff)](https://blog.atri.tk) [![](https://img.shields.io/badge/-@Misaka_0x34ca-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/Misaka_0x34ca) [![](https://img.shields.io/badge/pgp-189BB387CF3AD95F-informational)](https://keys.openpgp.org/vks/v1/by-fingerprint/C4B71F9ED3515AEB8270D5D7189BB387CF3AD95F)
-
-## More information
-
-  - [My homepage](https://atri.tk)
-  - [My about page](https://i.atri.tk/)
+<p align="center">
+  <a href="https://twitter.com/Misaka_0x34ca">
+    <img
+      src="https://img.shields.io/badge/-@Misaka_0x34ca-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white"
+      alt="Twitter" />
+  </a>
+  <a href="https://t.me/Misaka_0x34ca">
+    <img src="https://img.shields.io/badge/-@Misaka_0x34ca-3db6f1?style=for-the-badge&logo=Telegram&logoColor=2ca5e0"
+      alt="Telegram" />
+  </a>
+  <a href="https://blog.atri.tk">
+    <img src="https://img.shields.io/badge/-blog.atri.tk-0e83cd?style=for-the-badge&logo=Blogger&logoColor=fff"
+      alt="Blog" />
+  </a>
+  <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/C4B71F9ED3515AEB8270D5D7189BB387CF3AD95F">
+    <img src="https://img.shields.io/badge/pgp-189BB387CF3AD95F-informational?style=for-the-badge" alt="PGP Key" />
+  </a>
+  <a href="https://i.atri.tk">
+    <img src="https://img.shields.io/badge/About-i.atri.tk-blue?style=for-the-badge" alt="About" />
+  </a>
+</p>

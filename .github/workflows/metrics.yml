@@ -1,0 +1,53 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
+name: Metrics
+on:
+  schedule:
+    - cron: "10 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: General
+        uses: lowlighter/metrics@latest
+        with:
+          filename: general.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity
+          base_indepth: yes
+          user: Misaka13514
+          config_order: base.header, base.activity+community, people
+          config_timezone: Asia/Shanghai
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_size: 28
+          plugin_people_thanks: LovelyWei, Esonhugh, baiyang-lzy, ovrase, Cn47mP, iamtwz, SakurabaKiyoka, shirohako, aisuneko, ZenithalHourlyRate, SharzyL, Cumuifreer
+          plugin_people_types: followers, thanks
+
+      - name: Medias
+        uses: lowlighter/metrics@latest
+        with:
+          filename: media.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          config_order: rss, anilist
+          config_timezone: Asia/Shanghai
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
+          plugin_anilist: yes
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: characters
+          plugin_anilist_limit: 2
+          plugin_anilist_limit_characters: 22
+          plugin_anilist_shuffle: no
+          plugin_anilist_user: Misaka13514
+          plugin_rss: yes
+          plugin_rss_limit: 3
+          plugin_rss_source: https://blog.atri.tk/atom.xml
