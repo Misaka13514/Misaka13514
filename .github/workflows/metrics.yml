@@ -28,7 +28,7 @@ jobs:
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
-          plugin_people_thanks: LovelyWei, Esonhugh, baiyuanneko, ovrase, Cn47mP, iamtwz, SakurabaKiyoka, shirohako, aisuneko, ZenithalHourlyRate, SharzyL, Cumuifreer
+          plugin_people_thanks: baiyuanneko, scientificworld, LovelyWei, Esonhugh, miaotony, ovrase, Cn47mP, iamtwz, SakurabaKiyoka, shirohako, aisuneko, LengmoAngel
           plugin_people_types: followers, thanks
 
       - name: Medias
