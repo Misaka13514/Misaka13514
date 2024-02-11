@@ -14,14 +14,14 @@
     <img src="https://img.shields.io/badge/-@Misaka_0x34ca-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0"
       alt="Telegram" />
   </a>
-  <a href="https://blog.atri.tk">
-    <img src="https://img.shields.io/badge/-blog.atri.tk-0e83cd?style=flat-square&logo=Blogger&logoColor=fff"
+  <a href="https://blog.apeiria.net">
+    <img src="https://img.shields.io/badge/-blog.apeiria.net-0e83cd?style=flat-square&logo=Blogger&logoColor=fff"
       alt="Blog" />
   </a>
   <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/293B93D8A471059F85D716A65BA92099D9BE2DAA">
     <img src="https://img.shields.io/badge/pgp-5BA92099D9BE2DAA-informational?style=flat-square" alt="PGP Key" />
   </a>
-  <a href="https://i.atri.tk">
-    <img src="https://img.shields.io/badge/About-i.atri.tk-blue?style=flat-square" alt="About" />
+  <a href="https://i.apeiria.net">
+    <img src="https://img.shields.io/badge/About-i.apeiria.net-blue?style=flat-square" alt="About" />
   </a>
 </p>

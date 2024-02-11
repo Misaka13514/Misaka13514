@@ -50,4 +50,4 @@ jobs:
           plugin_anilist_user: Misaka13514
           plugin_rss: yes
           plugin_rss_limit: 3
-          plugin_rss_source: https://blog.atri.tk/atom.xml
+          plugin_rss_source: https://blog.apeiria.net/atom.xml
