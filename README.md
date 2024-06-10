@@ -5,13 +5,13 @@
 </a>
 
 <p align="center">
-  <a href="https://twitter.com/Misaka_0x34ca">
+  <a href="https://x.com/Misaka_0x34ca">
     <img
-      src="https://img.shields.io/badge/-@Misaka_0x34ca-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white"
+      src="https://img.shields.io/badge/-@Misaka_0x34ca-0f1419?style=flat-square&labelColor=0f1419&logo=x&logoColor=white"
       alt="Twitter" />
   </a>
   <a href="https://t.me/Misaka_0x34ca">
-    <img src="https://img.shields.io/badge/-@Misaka_0x34ca-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0"
+    <img src="https://img.shields.io/badge/-@Misaka_0x34ca-3db6f1?style=flat-square&logo=Telegram&logoColor=0088cc"
       alt="Telegram" />
   </a>
   <a href="https://blog.apeiria.net">
