@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://bsky.app/profile/apeiria.net">
     <img
-      src="https://img.shields.io/badge/-@Misaka_0x34ca-0285ff?style=flat-square&logo=Bluesky&logoColor=white"
+      src="https://img.shields.io/badge/-@apeiria.net-0285ff?style=flat-square&logo=Bluesky&logoColor=white"
       alt="Bluesky" />
   </a>
   <a href="https://t.me/Misaka_0x34ca">
